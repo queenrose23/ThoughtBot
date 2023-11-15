@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    color: white;
+}
+header {
+    display: flex;
+    border-bottom: 1px solid black;
+    padding-bottom: 1opx;
+}
+nav {
+    margin-left: 400px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 18px;
+}
+nav a:hover {
+    color: red;
+}
+nav button {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border:none;
+    margin-left: 10px;
+}
+.header {
+    font-size: 50px;
+    color: white;
+    margin-top: 60px;
+}
+.written {
+    color: white;
+}
+.written a {
+    color: #ffe790;
+}
+.written a:hover {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
